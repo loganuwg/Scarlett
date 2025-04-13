@@ -18,3 +18,8 @@ UserSettings/
 *.booproj
 *.svd
 *.pdb
+Library/
+Library/
+Temp/
+Obj/
+Build/
